@@ -131,3 +131,7 @@ local.settings.json
 
 #VSCode
 .vscode
+
+#Terraform
+.terraform
+terraform.tfstate
